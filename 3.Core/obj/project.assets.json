@@ -185,9 +185,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/paulerickson/Desktop/git-repo-root/facshus/youtube-source/ef-multi-ctx-db-solution/3.Core/DemoCtx.Core.csproj",
-      "projectName": "DemoCtx.Core",
-      "projectPath": "/Users/paulerickson/Desktop/git-repo-root/facshus/youtube-source/ef-multi-ctx-db-solution/3.Core/DemoCtx.Core.csproj",
+      "projectUniqueName": "/Users/paulerickson/Desktop/git-repo-root/facshus/youtube-source/ef-multi-ctx-db-solution/3.Core/Demo.Core.csproj",
+      "projectName": "Demo.Core",
+      "projectPath": "/Users/paulerickson/Desktop/git-repo-root/facshus/youtube-source/ef-multi-ctx-db-solution/3.Core/Demo.Core.csproj",
       "packagesPath": "/Users/paulerickson/.nuget/packages/",
       "outputPath": "/Users/paulerickson/Desktop/git-repo-root/facshus/youtube-source/ef-multi-ctx-db-solution/3.Core/obj/",
       "projectStyle": "PackageReference",

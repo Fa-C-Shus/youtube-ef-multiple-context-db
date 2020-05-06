@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\3.Core\DemoCtx.Core.csproj" />
+    <ProjectReference Include="..\3.Core\Demo.Core.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

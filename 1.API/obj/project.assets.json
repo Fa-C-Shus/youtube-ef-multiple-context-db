@@ -12078,9 +12078,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/paulerickson/Desktop/git-repo-root/facshus/youtube-source/ef-multi-ctx-db-solution/1.API/DemoCtx.API.csproj",
-      "projectName": "DemoCtx.API",
-      "projectPath": "/Users/paulerickson/Desktop/git-repo-root/facshus/youtube-source/ef-multi-ctx-db-solution/1.API/DemoCtx.API.csproj",
+      "projectUniqueName": "/Users/paulerickson/Desktop/git-repo-root/facshus/youtube-source/ef-multi-ctx-db-solution/1.API/Demo.API.csproj",
+      "projectName": "Demo.API",
+      "projectPath": "/Users/paulerickson/Desktop/git-repo-root/facshus/youtube-source/ef-multi-ctx-db-solution/1.API/Demo.API.csproj",
       "packagesPath": "/Users/paulerickson/.nuget/packages/",
       "outputPath": "/Users/paulerickson/Desktop/git-repo-root/facshus/youtube-source/ef-multi-ctx-db-solution/1.API/obj/",
       "projectStyle": "PackageReference",
